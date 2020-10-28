@@ -12,7 +12,7 @@ A Discord bot that speechs out with a human like voice your messages
 ## Clone the repository
 
 ```
-$ git@github.com:KNaiskes/dispeech.git
+$ git clone git@github.com:KNaiskes/dispeech.git
 ```
 
 ## Create a virtual enviroment
